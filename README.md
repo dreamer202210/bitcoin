@@ -19,5 +19,21 @@ telegram:@ninki51 , line：ninki51
 =====================================================
 
 ซอฟต์แวร์เครื่องมือถอดรหัส Bitcoin หลักการ: รวบรวมที่อยู่ 210,000 จากนั้นสร้างคีย์ส่วนตัวแบบสุ่ม จากนั้นอนุมานคีย์สาธารณะและที่อยู่ จากนั้นใช้ที่อยู่นี้เพื่อให้ตรงกับที่อยู่ 210,000 หากการจับคู่สำเร็จ ให้เขียนคีย์ส่วนตัวและที่อยู่ ไฟล์ใหม่
+telegram:@ninki51 , line：ninki51
+
+=====================================================
+
+Bitcoin 크래킹 도구 소프트웨어, 원칙: 210,000개의 주소를 수집한 다음 개인 키를 무작위로 생성한 다음 공개 키와 주소를 추론한 다음 이 주소를 사용하여 210,000개의 주소를 일치시키고 일치에 성공하면 개인 키와 주소 쓰기 새 파일.
+telegram:@ninki51 , line：ninki51
+
+=====================================================
+
+Perisian alat pemecah Bitcoin, prinsip: kumpulkan 210,000 alamat, kemudian jana kunci persendirian secara rawak, kemudian simpulkan kunci dan alamat awam, dan kemudian gunakan alamat ini untuk memadankan 210,000 alamat, jika perlawanan itu berjaya, letakkan kunci persendirian dan tulis alamat ke fail baharu.
+telegram:@ninki51 , line：ninki51
+
+=====================================================
+
+برنامج أداة تكسير Bitcoin ، المبدأ: اجمع 210.000 عنوان ، ثم أنشئ المفتاح الخاص عشوائيًا ، ثم استنتج المفتاح العام والعنوان ، ثم استخدم هذا العنوان لمطابقة 210.000 عنوان ، إذا نجحت المطابقة ، ضع المفتاح الخاص والعنوان اكتب إلى ملف جديد.
+telegram:@ninki51 , line：ninki51
 
 ![img](https://raw.githubusercontent.com/dreamer202210/bitcoin_crack_jp/main/newbtc.png)
