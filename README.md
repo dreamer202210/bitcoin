@@ -3,6 +3,15 @@ Bitcoin cracking tool software, principle: collect 210,000 addresses, then rando
 
 ======================================================
 
+Software de herramienta de craqueo de Bitcoin, principio: recopile 210 000 direcciones, luego genere aleatoriamente la clave privada, luego deduzca la clave pública y la dirección, y luego use esta dirección para hacer coincidir 210 000 direcciones, si la coincidencia es exitosa, escriba la clave privada y la dirección en un archivo nuevo
+telegram:@ninki51 , line：ninki51
+======================================================
+
+Software de ferramenta de cracking de Bitcoin, princípio: colete 210.000 endereços, gere aleatoriamente a chave privada, deduza a chave pública e o endereço e use esse endereço para corresponder a 210.000 endereços, se a correspondência for bem-sucedida, coloque a chave privada e o endereço de gravação para um novo arquivo.
+telegram:@ninki51 , line：ninki51
+
+======================================================
+
 bitcoinクラッキングツール、原理: 210,000 個のアドレスを収集し、秘密鍵をランダムに生成し、公開鍵とアドレスを推測し、このアドレスを使用して 210,000 個のアドレスを照合し、一致した場合は、秘密鍵とアドレスを書き込みます 新しいファイル。 telegram:@ninki51 , line：ninki51
 
 ======================================================
