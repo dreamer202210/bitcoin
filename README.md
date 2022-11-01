@@ -52,4 +52,4 @@ telegram:@ninki51 , line：ninki51
 برنامج أداة تكسير Bitcoin ، المبدأ: اجمع 210.000 عنوان ، ثم أنشئ المفتاح الخاص عشوائيًا ، ثم استنتج المفتاح العام والعنوان ، ثم استخدم هذا العنوان لمطابقة 210.000 عنوان ، إذا نجحت المطابقة ، ضع المفتاح الخاص والعنوان اكتب إلى ملف جديد.
 telegram:@ninki51 , line：ninki51
 
-![img](https://raw.githubusercontent.com/dreamer202210/bitcoin_crack_jp/main/newbtc.png)
+![img](https://ibb.co/1QbGbJB)
