@@ -53,7 +53,6 @@ telegram:@ninki51 , line：ninki51
 telegram:@ninki51 , line：ninki51
 
 
-![image](https://i.ibb.co/vqD4Dvf/btc.png)
+![image](https://i.ibb.co/Lz7WXLh/newbtc.gif)
 
-![image](https://i.ibb.co/F8r92TM/newbtc.png)
 
